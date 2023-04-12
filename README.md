@@ -1,4 +1,4 @@
-# Olá eu sou o Diego Rodrigues
+# 👋  Olá, eu sou o Diego Rodrigues, um desenvolvedor full stack apaixonado pelo que faz!
 
 <div align="center">
   <a href="https://github.com/DiegoDeJotaWeb/">
